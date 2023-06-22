@@ -1,0 +1,1 @@
+This is a continuation of the Spectagram App and it is the final part. This part includes custom styling and some functionality to to navigation screens. 
